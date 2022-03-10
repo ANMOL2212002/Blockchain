@@ -18,9 +18,7 @@ You can install it by using
 <br>
 
 ### 1. Clone the repo onto your local machine
-```
-git clone https://github.com/pallavkoppisetti/DSA-project.git
-```
+
 
 ### 2. Compile the code
 Type in `make` and all the files(.c and .h) will be compiled with the help of a makefile and the object files will be stored in `src/obj`.
