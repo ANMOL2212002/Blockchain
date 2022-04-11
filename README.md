@@ -5,6 +5,12 @@ representation of Bitcoin.
 
 &nbsp;
 
+## Team Members:
+- Jewel Benny
+- Pallav Koppisetti
+- Anmoldeep Kaur Dhillon
+- Atharv Sujlegaonkar
+
 ## I. Pre-requisites
 
 You need to install **openssl** library to make this work.
